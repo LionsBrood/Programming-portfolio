@@ -2,10 +2,14 @@
 
 # Eli Garfield's <ins> Programming Portfolio </ins> <table><tr><td>2024-2025</table></tr></td>
 In the past I have:
-<br><strong> 
+<br>
+<strong> 
+<ins>
 > $\color{gray}{Built\ A\ Website\ Using\ HTML\.}$
 >> $\color{gray}{Jailbroke\ A\ Nintendo\ 3DS\ using\ Public\ files\ on\ GitHub\ .}$ 
 >>> $\color{gray}{Modded\ a\ 3ds\ with\ H\ Shop\ for\ downloading\ homebrew\ files\ on\ a\ 3ds\ .}$
-</br></strong>
+</br>
+</strong>
+</ins>
 ## <em> Term 1 </em>
 ### <em> Term 2 </em>
