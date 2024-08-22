@@ -12,10 +12,12 @@
  >
 > $\color{gray}{Modded\ a\ 3ds\ with\ H\ Shop\ for\ downloading\ homebrew\ files\ on\ a\ 3ds\ .}$
 
-</br> 
+</br>
 
 ## <h3 align="center"><em> Term 1 </em></h3>
 
 ### <h3 align="center"><em> Term 2 </em></h3>
 
 ##### <h3 align="center">[My Favorite Website](https://thisisnotawebsitedotcom.com/)</h3>
+
+###### <h3 align='center'> will update regularly!</h3>
