@@ -2,7 +2,7 @@
 </p>
 
 
-# <h3 align="center"> Eli Garfield's <ins> Programming Portfolio </ins> <h3 align="center"><table><tr><td>2024-2025</table></tr></td> </h3>
+ <h3 align="center"> Eli Garfield's <ins> Programming Portfolio </ins> <h3 align="center">2024-2025 </h3>
 <h3 align="center"> In the past I have:  </h3>
 
 <br>
