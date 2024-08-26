@@ -1,4 +1,6 @@
- ![Bruce](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E4cmJmM251bHh4bm94Z3lzY3U3ZzB1eDM3dG50eGFlNTlsNjIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYGb1LuZ3n7dRnO/giphy.gif)
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E4cmJmM251bHh4bm94Z3lzY3U3ZzB1eDM3dG50eGFlNTlsNjIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYGb1LuZ3n7dRnO/giphy.gif" width="500" height="500" border="10"/>
+</p>
+
 
 # <h3 align="center"> Eli Garfield's <ins> Programming Portfolio </ins> <h3 align="center"><table><tr><td>2024-2025</table></tr></td> </h3>
 <h3 align="center"> In the past I have:  </h3>
